@@ -25,7 +25,7 @@ SECRET_KEY = '-cn@x+0l^yx$tz+3w00ngb(oq^#y115u!kyh@#xo2gbc+vr7_y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['buka.pythonanywhere.com']
 
 
 # Application definition
